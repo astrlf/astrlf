@@ -1,0 +1,3 @@
+- Student, programmer, nixer
+- TypeScript, Go, C
+- Cats, books
